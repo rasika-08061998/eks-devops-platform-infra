@@ -28,3 +28,9 @@ terraform.rc
 
 # Python
 __pycache__/
+
+# binaries
+*.deb
+*.zip
+*.tar
+*.tar.gz
