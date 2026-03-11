@@ -34,3 +34,6 @@ __pycache__/
 *.zip
 *.tar
 *.tar.gz
+*.pem
+*.key
+
