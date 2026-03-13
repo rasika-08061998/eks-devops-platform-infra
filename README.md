@@ -571,9 +571,14 @@ eks-devops-platform-infra
 
 
 
+
+
+
 **Next Project implementation for Application and GitOps Deployment** :
 
-**Application Repository**:
+
+
+->  **Application Repository**:
 
 Repository Name
 
@@ -589,7 +594,8 @@ Contains the application source code
 Includes Dockerfile for containerizing the application
 Includes GitHub Actions workflow for CI/CD pipeline
 
-**GitOps Deployment Repository**:
+
+->  **GitOps Deployment Repository**:
 
 Repository Name
 
