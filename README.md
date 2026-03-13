@@ -570,3 +570,42 @@ eks-devops-platform-infra
 └── .gitignore
 
 
+
+**Next Project implementation for Application and GitOps Deployment** :
+
+**Application Repository**:
+
+Repository Name
+
+three-tier-ai-app
+
+Repository Link
+
+https://github.com/rasika-08061998/three-tier-ai-app
+
+Purpose of this repository:
+
+Contains the application source code
+Includes Dockerfile for containerizing the application
+Includes GitHub Actions workflow for CI/CD pipeline
+
+**GitOps Deployment Repository**:
+
+Repository Name
+
+eks-gitops-deployments
+
+Repository Link
+
+https://github.com/rasika-08061998/eks-gitops-deployments
+
+Purpose of this repository:
+
+Contains Kubernetes manifest files
+Stores deployment configurations for the application
+Enables GitOps deployment using ArgoCD
+
+
+
+
+
